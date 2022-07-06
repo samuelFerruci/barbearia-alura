@@ -2,10 +2,20 @@
     background: #CCCCCC
 }       
 
-p{
-            text-align: center;
-            background: 
+H1{
+     text-align: center   
 }
+
+
+p{
+
+      text-align: center;
+}
+
+#missao {
+      style="font-size:20px
+}
+
 em strong {
     color: #FF0000;
 }
